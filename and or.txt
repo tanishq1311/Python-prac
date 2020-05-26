@@ -1,0 +1,11 @@
+usage of and
+    1.      LHS                                            RHS
+          if a != b                                     if a > b
+             True                                          True
+           x  True                                          False
+           x  False                                         False
+usage of or
+    LHS                              RHS
+   True                             True
+   xFalse                            False
+   true                               False

@@ -1,0 +1,10 @@
+greater then >
+less than <
+equal to ==
+not equal to !=
+check if a is equal to or smaller than b
+    1. if a == b or a < b
+    2. if a =< b
+
+now when do if runs?
+    1. when the situation is true
